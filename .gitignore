@@ -1,0 +1,14 @@
+/target
+/project/target
+*.class
+*.iml
+*.ipr
+*.iws
+/.idea
+out
+/metastore_db
+/data
+._.DS_Store
+.DS_Store
+*.conf
+.vscode
